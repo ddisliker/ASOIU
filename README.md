@@ -11,5 +11,5 @@
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | homework 1 | [Открыть](https://github.com/ddisliker/Asoiu_HW.git) |
+| 1 | Homework 1 | [Открыть](https://github.com/ddisliker/Asoiu_HW.git) |
 
