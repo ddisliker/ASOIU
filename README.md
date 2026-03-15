@@ -7,17 +7,9 @@
 
 
 
-    </td>
-    <td width="50%" valign="top">
-
 ### homework
 
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | homework 1 | [Открыть](https://github.com/ddisliker/Asoiu_HW.git) |
 
-
-
-    </td>
-  </tr>
-</table>
