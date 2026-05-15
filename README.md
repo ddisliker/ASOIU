@@ -12,4 +12,7 @@
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | Homework 1 | [Открыть](https://github.com/ddisliker/Asoiu_HW.git) |
+| № | Тема | Ссылка |
+|---|------|--------|
+| 2 | Homework 2 | [Открыть](https://github.com/ddisliker/Asoiu_HW.git) |
 
